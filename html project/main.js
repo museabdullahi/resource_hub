@@ -20,6 +20,5 @@ document.addEventListener('DOMContentLoaded', function () {
 
         console.log(surveyData);
 
-        // You can send the survey data to a server or perform any other action here
     });
 });
